@@ -1,8 +1,8 @@
 **App Name:** <br>
-Pets & Co.
+Paws & Co.
 
 **Description:**<br>
-Pets & Co offers comprehensive pet care with personalized profiles, health tracking, activity monitoring, and expert nutrition advice. Shop top-rated pet products, schedule vet and grooming appointments, connect with a pet community, access emergency support, and discover local services. Everything your pet needs, in one user-friendly app.
+Paws & Co offers comprehensive pet care with personalized profiles, health tracking, activity monitoring, and expert nutrition advice. Shop top-rated pet products, schedule vet and grooming appointments, connect with a pet community, access emergency support, and discover local services. Everything your pet needs, in one user-friendly app.
 
 **Features:** 
 <br>1)Personalized Pet Profiles
