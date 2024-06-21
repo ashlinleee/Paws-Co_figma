@@ -5,7 +5,7 @@
 **Features:**
 1)Personalized Pet Profiles
 2)Health and Wellness Tracking
-Activity and Exercise Monitoring
+3)Activity and Exercise Monitoring
 Nutritional Guidance and Meal Plans
 Pet Shopping Made Easy
 Appointment Scheduling and Reminders
